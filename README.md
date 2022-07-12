@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MerinAnabelle
-- 👀 I’m interested in Game Developing
+- 👀 I’m interested in Web Developing & Game Developing
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
